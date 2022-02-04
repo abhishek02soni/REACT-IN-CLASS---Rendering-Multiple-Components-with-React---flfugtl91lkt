@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div id="main">
      <Name  data-ns-test ="project-name"/>
-     <Des data-ns-test ="project-description"/>
+     <Description data-ns-test ="project-description"/>
     </div>
   )
 }
