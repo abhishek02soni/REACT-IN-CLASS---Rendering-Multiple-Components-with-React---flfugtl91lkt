@@ -5,8 +5,8 @@ import Description from "./Description";
 const App = () => {
   return (
     <div id="main">
-     <Name  data-ns-test ="project-name"/>
-     <Description data-ns-test ="project-description"/>
+     <Name/>
+     <Description/>
     </div>
   )
 }
